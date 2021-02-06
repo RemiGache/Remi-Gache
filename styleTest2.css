@@ -185,7 +185,7 @@ footer p{
 .horizontalgrid {
   display:grid;
   grid-template-columns: 6rem 10rem auto;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
 }
 .horizontalgrid img{
   width: 5rem;
