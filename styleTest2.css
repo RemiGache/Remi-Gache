@@ -162,7 +162,6 @@ footer p{
 .media{
   display: grid;
   grid-template-rows: auto;
-  margin-left: 1px;
   text-align: left;
 }
 .media iframe{
