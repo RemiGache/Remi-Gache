@@ -17,6 +17,14 @@ body {
   box-sizing:border-box;
 }
 
+.site_wrap2 {
+  width:100%;
+  max-width: 75rem;
+  margin:  2rem auto;
+  border: 1px solid #3C6E71;
+  box-sizing:border-box;
+}
+
 header {
   min-height: 11rem;
   display:grid;
